@@ -1,4 +1,4 @@
-<h1>Olá a Todos, eu sou Henrique Melo Leal, seja bem-vindo ao meu perfil :D</h1>
+<h1>Olá a Todos, eu sou Henrique Melo Leal, seja bem-vindo ao meu perfil :monocle_face:</h1>
 <br>
 
 <div align="center">
@@ -8,7 +8,7 @@
 </div>
 <br>
   
- <h2>O que estou aprendendo:</h2>
+ <h2>O que estou aprendendo :open_book: </h2>
  <div style="display: inline_block">
  <img align="center" alt="Henrique-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Henrique-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,7 +18,7 @@
 </div>
 <br>
  
-<h2>O que quero aprender:</h2>
+<h2>O que quero aprender :books: </h2>
   
  <div style="display: inline_block">
  <img align="center" alt="Henrique-JAVA" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
