@@ -8,7 +8,7 @@
 </div>
 <br>
   
- <h2 aling="center" >O que estou aprendendo :open_book: </h2>
+ <h2 aling="center">O que estou aprendendo :open_book: </h2>
  <div aling="center" style="display: inline_block">
  <a href="https://github.com/HenriqueMLDEV">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python&theme=light" />
@@ -26,7 +26,6 @@
   </a>
  </div>
   
-###
   
   <h2>Me encontre em:</h2>
 <div> 
@@ -36,4 +35,8 @@
  <a href="https://www.instagram.com/henrique.meloleal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
  </div>
 
+ ###
+  
+<h4> "Eu sou eu e minha circunstância, e se não a salvo, não salvo a mim mesmo" </h4>  <i> Ortega y Gasset </i> 
+  
  
