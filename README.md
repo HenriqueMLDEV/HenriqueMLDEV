@@ -10,22 +10,21 @@
   
  <h2>O que estou aprendendo:</h2>
  <div style="display: inline_block">
- <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Henrique-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- <img align="center" alt="Henrique-Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"  
- <img align="center" alt="Henrique-PDS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"  
+ <img align="center" alt="Henrique-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Henrique-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Henrique-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Henrique-PDS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">  
+ <img align="center" alt="Henrique-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 <br>
  
 <h2>O que quero aprender:</h2>
   
  <div style="display: inline_block">
- <img align="center" alt="Henrique-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Henrique-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
- <img align="center" alt="Henrique-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
- <img align="center" alt="Henrique-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
+ <img align="center" alt="Henrique-JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" alt="Henrique-php" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+ <img align="center" alt="Henrique-MySQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt="Henrique-Lua" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
 </div>
   
 ###
