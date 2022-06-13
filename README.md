@@ -1,10 +1,10 @@
 <h1>Olá a Todos, eu sou Henrique Melo Leal, seja bem-vindo ao meu perfil :monocle_face:</h1>
 <br>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/HenriqueMLDEV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMLDEV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMLDEV&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMLDEV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMLDEV&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <br>
   
