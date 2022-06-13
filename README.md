@@ -21,9 +21,9 @@
 <h2>O que quero aprender:</h2>
   
  <div style="display: inline_block">
- <img align="center" alt="Henrique-JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Henrique-php" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
- <img align="center" alt="Henrique-MySQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt="Henrique-JAVA" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" alt="Henrique-php" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+ <img align="center" alt="Henrique-MySQL" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Henrique-Lua" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
 </div>
   
