@@ -22,7 +22,7 @@
   
  <div style="display: inline_block">
     <a href="https://github.com/HenriqueMLDEV">
-    <img src="https://skillicons.dev/icons?i=c,php,mysql,lua, unity&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,php,mysql,lua&theme=light" />
   </a>
  </div>
  
