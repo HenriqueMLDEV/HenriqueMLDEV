@@ -11,7 +11,7 @@
  <h2 aling="center">O que estou aprendendo :open_book: </h2>
  <div aling="center" style="display: inline_block">
  <a href="https://github.com/HenriqueMLDEV">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,java&theme=light" />
   </a>
   <img alt="Henrique-PDS" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"> 
  
@@ -22,7 +22,7 @@
   
  <div style="display: inline_block">
     <a href="https://github.com/HenriqueMLDEV">
-    <img src="https://skillicons.dev/icons?i=c,java,php,mysql,lua&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,php,mysql,lua&theme=light" />
   </a>
  </div>
   
