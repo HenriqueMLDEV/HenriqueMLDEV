@@ -1,4 +1,4 @@
-<h2>Olá a Todos, eu sou Henrique Melo Leal, seja bem-vindo ao meu perfil :monocle_face:</h2>
+<h2>Oi, eu sou Henrique Melo Leal, seja bem-vindo ao meu perfil :monocle_face:</h2>
 <br>
 
 <div align="center" style="display: inline_block">
