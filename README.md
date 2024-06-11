@@ -42,4 +42,3 @@
   
 <h3> "Eu sou eu e minha circunstância, e se não a salvo, não salvo a mim mesmo" </h3>  <i> Ortega y Gasset </i> 
   
-![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
