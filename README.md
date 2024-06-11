@@ -11,7 +11,7 @@
  <h2 aling="center">O que estou aprendendo :open_book: </h2>
  <div aling="center" style="display: inline_block">
  <a href="https://github.com/HenriqueMLDEV">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,node,react&theme=light" />
   </a>
  
  
@@ -22,7 +22,7 @@
   
  <div style="display: inline_block">
     <a href="https://github.com/HenriqueMLDEV">
-    <img src="https://skillicons.dev/icons?i=c,php,python,lua,java,mysql,flutter,react,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,php,python,lua,java,mysql,flutter&theme=light" />
   </a>
  </div>
  
