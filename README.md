@@ -11,7 +11,7 @@
  <h2 aling="center">O que estou aprendendo :open_book: </h2>
  <div aling="center" style="display: inline_block">
  <a href="https://github.com/HenriqueMLDEV">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,node,react&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react&theme=light" />
   </a>
  
  
